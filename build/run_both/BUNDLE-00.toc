@@ -1,0 +1,3 @@
+([('run_both',
+   '/Users/davidruiz/Desktop/UnlockFast/dist/run_both',
+   'EXECUTABLE')],)
